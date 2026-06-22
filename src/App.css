@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-image: radial-gradient(circle at top,#e0ef05,#69e353d0,#02c7f9);
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  padding-top: 40px;
+}
